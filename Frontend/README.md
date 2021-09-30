@@ -1,2 +1,3 @@
 Para rodar o projeto frontend, primeiro é necessário instalar a pasta node_module com o comando yanr ou npm i  para instalar os modulos que foram usados no projeto.
 Após isso é só dar o comando yarn start ou npm start que o projeto vai se iniciar.
+Para fazer um update em qualquer campo basta clicar duas vezes no campo que deseja alterar, fazer a alteração e irá aprecer uma mensagem caso deu tudo trudo certo, ou caso deu algum problema, e para filtrar o conteudo pela descrição do alarme, basta ir na aba Alarms, e clicar nos ícone com 3 pontinhos, que aparece quando se passa o mause em cima do nome das colunas, e clicar na opção filter, e depois é só digitar em filter values qual a descrição que está procurando.
